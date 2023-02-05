@@ -18,14 +18,15 @@ I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[![Mohamed Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97)](https://github.com/mohamedashrafibraheem97/github-readme-stats&show_icons=true&theme=radical&hide=stars,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact)](https://github.com/mohamedashrafibraheem97/github-readme-stats&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#)
+[![Mohamed Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97&show_icons=true&theme=radical&hide=stars,issues,contribs)](https://github.com/mohamedashrafibraheem97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#)](https://github.com/mohamedashrafibraheem97/github-readme-stats)
 [![Mohamed Ashraf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedAshraf97)](https://github.com/mohamedashrafibraheem97/github-readme-stats)
 
 
 <a href="https://github.com/mohamedashrafibraheem97/github-readme-stats">
-  [![Mohamed Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97)](https://github.com/mohamedashrafibraheem97/github-readme-stats&show_icons=true&theme=radical&hide=stars,issues,contribs)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97&show_icons=true&theme=radical&hide=stars,issues,contribs" />
 </a>
 <a href="https://github.com/mohamedashrafibraheem97/convoychat">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact)](https://github.com/mohamedashrafibraheem97/github-readme-stats&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#" />
 </a>
+
