@@ -19,29 +19,13 @@ I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 [![Mohamed Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97)](https://github.com/mohamedashrafibraheem97/github-readme-stats&show_icons=true&theme=radical&hide=stars,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97)](https://github.com/mohamedashrafibraheem97/github-readme-stats&layout=compact&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=c#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact)](https://github.com/mohamedashrafibraheem97/github-readme-stats&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#)
 [![Mohamed Ashraf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedAshraf97)](https://github.com/mohamedashrafibraheem97/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/mohamedashrafibraheem97/github-readme-stats">
+  [![Mohamed Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97)](https://github.com/mohamedashrafibraheem97/github-readme-stats&show_icons=true&theme=radical&hide=stars,issues,contribs)
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/mohamedashrafibraheem97/convoychat">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact)](https://github.com/mohamedashrafibraheem97/github-readme-stats&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#)
 </a>
-
-
-<!--
-**MohamedAshrafIbraheem97/MohamedAshrafIbraheem97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Product Ownership
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on Angular projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
