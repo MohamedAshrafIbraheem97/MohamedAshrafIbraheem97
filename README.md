@@ -3,8 +3,7 @@
 I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia-world.com/). I am shifting to Frontend specialized in Angular (planning to learn React) and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedashrafibraheem/)](https://www.linkedin.com/in/mohamedashrafibraheem/)
-[![Gmail Badge](https://img.shields.io/badge/-MohamedAshrafIbraheem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedashrafibraheem@gmail.com)](mailto:mohamedashrafibraheem@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-MohamedAshrafIbraheem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedashrafibraheem@gmail.com)](mailto:mohamedashrafibraheem@gmail.com) 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohamedashrafibraheem97.mohamedashrafibraheem97)
 
 
@@ -19,9 +18,9 @@ I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[![Mohamed Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97)](https://github.com/mohamedashrafibraheem97/github-readme-stats&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97)](https://github.com/mohamedashrafibraheem97/github-readme-stats&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation)
-[![Mohamed Ashraf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohamedashrafibraheem97)](https://github.com/mohamedashrafibraheem97/github-readme-stats)
+[![Mohamed Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97)](https://github.com/mohamedashrafibraheem97/github-readme-stats&show_icons=true&theme=radical&hide=stars,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97)](https://github.com/mohamedashrafibraheem97/github-readme-stats&layout=compact&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=c#)
+[![Mohamed Ashraf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedAshraf97)](https://github.com/mohamedashrafibraheem97/github-readme-stats)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
