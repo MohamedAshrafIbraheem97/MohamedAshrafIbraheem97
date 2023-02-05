@@ -27,7 +27,7 @@ I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97&show_icons=true&theme=radical&hide=stars,issues,contribs" />
 </a>
 <a href="https://github.com/mohamedashrafibraheem97/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#,c#,HTML" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#,c#,HTML,html5,html" />
 </a>
 
 
