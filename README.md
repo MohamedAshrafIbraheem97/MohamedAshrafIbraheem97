@@ -19,14 +19,14 @@ I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 [![Mohamed Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97&show_icons=true&theme=radical&hide=stars,issues,contribs)](https://github.com/mohamedashrafibraheem97/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#)](https://github.com/mohamedashrafibraheem97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact&hide=c#&exclude_repo=https://github.com/MohamedAshrafIbraheem97/CMS)](https://github.com/mohamedashrafibraheem97/github-readme-stats)
 [![Mohamed Ashraf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedAshraf97)](https://github.com/mohamedashrafibraheem97/github-readme-stats)
 
 
-<a href="https://github.com/mohamedashrafibraheem97/github-readme-stats">
+<a >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97&show_icons=true&theme=radical&hide=stars,issues,contribs" />
 </a>
-<a href="https://github.com/mohamedashrafibraheem97/convoychat">
+<a >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#" />
 </a>
 
