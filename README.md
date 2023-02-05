@@ -4,7 +4,6 @@ I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedashrafibraheem/)](https://www.linkedin.com/in/mohamedashrafibraheem/)
 [![Gmail Badge](https://img.shields.io/badge/-MohamedAshrafIbraheem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedashrafibraheem@gmail.com)](mailto:mohamedashrafibraheem@gmail.com) 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohamedashrafibraheem97.mohamedashrafibraheem97)
 
 ![](https://komarev.com/ghpvc/?username=mohamedashrafibraheem97&style=for-the-badge)
 ## ⚡ Technologies
@@ -18,7 +17,7 @@ I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
+##
 ### 📈 Quick Stats
 
 <a href="https://github.com/mohamedashrafibraheem97/github-readme-stats" >
