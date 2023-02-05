@@ -6,7 +6,7 @@ I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia
 [![Gmail Badge](https://img.shields.io/badge/-MohamedAshrafIbraheem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedashrafibraheem@gmail.com)](mailto:mohamedashrafibraheem@gmail.com) 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohamedashrafibraheem97.mohamedashrafibraheem97)
 
-
+![](https://komarev.com/ghpvc/?username=mohamedashrafibraheem97&style=for-the-badge)
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -19,7 +19,7 @@ I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-## ⚡ Stats
+### 📈 Quick Stats
 
 <a href="https://github.com/mohamedashrafibraheem97/github-readme-stats" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedashrafibraheem97&show_icons=true&theme=radical&hide=stars,issues,contribs" />
@@ -27,6 +27,8 @@ I am Mohamed Ashraf Ibraheem, currently working at the [Sia Edu](https://www.sia
 <a href="https://github.com/mohamedashrafibraheem97/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedashrafibraheem97&layout=compact&exclude_repo=blogat,SuppliersApp,CMS,VirtualGym,Vidly,buyersStation&hide=C#,c#" />
 </a>
+
+
 <a href="https://github.com/mohamedashrafibraheem97/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MohamedAshraf97" />
 </a>
