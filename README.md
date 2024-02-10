@@ -2,7 +2,7 @@
 
 I am Mohamed Ashraf Ibraheem, currently working at [Netways](https://www.netways.com/) as a Frontend specialized in Angular (Currently learning React) and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-Previous experience:
+## Previous experience:
 1. Netways (full time) : Dec 2023 - Present
 2. Progressio solutions (part time): Aug 2023 - Dec 2023
 3. Softec International (full time): Apr 2023 - Nov 2023
