@@ -13,7 +13,7 @@ I am Mohamed Ashraf Ibraheem, currently working at [Netways](https://www.netways
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedashrafibraheem/)](https://www.linkedin.com/in/mohamedashrafibraheem/)
 [![Gmail Badge](https://img.shields.io/badge/-MohamedAshrafIbraheem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedashrafibraheem@gmail.com)](mailto:mohamedashrafibraheem@gmail.com) 
 
-![](https://komarev.com/ghpvc/?username=mohamedashrafibraheem&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=mohamedashrafibraheem97&style=for-the-badge)
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
