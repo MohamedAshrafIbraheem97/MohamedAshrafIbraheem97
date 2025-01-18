@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I am Mohamed Ashraf Ibraheem, currently working at [Netways](https://www.netways.com/) as a Frontend specialized in Angular (Currently learning React) and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Mohamed Ashraf Ibraheem, currently working at [MICEtribe](https://micetribe.com/) as a Frontend specialized in Angular (Currently learning React) and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 ## Previous experience:
-1. Netways (full time) : Dec 2023 - Present
-2. Progressio solutions (part time): Aug 2023 - Dec 2023
-3. Softec International (full time): Apr 2023 - Nov 2023
-4. Sia Edu (Task-based): Jan 2023 - Mar 2023
-5. Sia Edu (full time - Product Owner): Feb 2022 - Mar 2023
-6. MINDEAVORS Int. (full time - Product Owner): May 2021 - Mar 2022
+1. MICEtribe (full time): Dec 2024 - present 
+2. Netways (full time): Dec 2023 - Nov 2024
+3. Progressio solutions (part time): Aug 2023 - Dec 2023
+4. Softec International (full time): Apr 2023 - Nov 2023
+5. Sia Edu (Task-based): Jan 2023 - Mar 2023
+6. Sia Edu (full time - Product Owner): Feb 2022 - Mar 2023
+7. MINDEAVORS Int. (full time - Product Owner): May 2021 - Mar 2022
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedashrafibraheem/)](https://www.linkedin.com/in/mohamedashrafibraheem/)
 [![Gmail Badge](https://img.shields.io/badge/-MohamedAshrafIbraheem@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedashrafibraheem@gmail.com)](mailto:mohamedashrafibraheem@gmail.com) 
